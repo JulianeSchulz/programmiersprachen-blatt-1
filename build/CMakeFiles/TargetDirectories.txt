@@ -1,0 +1,3 @@
+/home/juliane/Dokumente/gitjs/programmiersprachen-blatt-1/build/source/CMakeFiles/helloworld.dir
+/home/juliane/Dokumente/gitjs/programmiersprachen-blatt-1/build/source/CMakeFiles/mltokm.dir
+/home/juliane/Dokumente/gitjs/programmiersprachen-blatt-1/build/source/CMakeFiles/tests.dir
